@@ -2,4 +2,6 @@ deploy_infra
 deploy_infra.pub
 credentials.yaml
 .terraform
+.idea
 
+monitoring-infra.iml
